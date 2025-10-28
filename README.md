@@ -1,4 +1,4 @@
-markdown
+
 🧩 CodeCollector - Professional Code Analysis & Export Tool
 
 Collect, analyze, and export your source code with comprehensive language statistics and beautiful visualizations.
